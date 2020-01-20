@@ -42,36 +42,36 @@ Windows Server 2012 HPC
 Windows Server 2012 Storage Server and Foundation  
 
 #Windows6.3:  
-Windows 8.1 Enterprise (N)
-Windows 8.1 Core(N)
-Windows 8.1 Professional(N)
-Windows 8.1 ProfessionalWMC
-Windows 8.1 Single Language
-Windows 8.1 CoreCountrySpecific
-Windows Embedded 8.1 Industry Enterprise
-Windows Embedded 8.1 Industry Pro 
-Windows Embedded Compact 2013
-Windows Server 2012R2
-Windows Hyper-V Server 2012R2
-Windows Server 2012R2 Essentials
-Windows Server 2012R2 HPC
-Windows Server 2012R2 Storage and Foundation
+Windows 8.1 Enterprise (N)  
+Windows 8.1 Core(N)  
+Windows 8.1 Professional(N)  
+Windows 8.1 ProfessionalWMC  
+Windows 8.1 Single Language  
+Windows 8.1 CoreCountrySpecific  
+Windows Embedded 8.1 Industry Enterprise  
+Windows Embedded 8.1 Industry Pro  
+Windows Embedded Compact 2013  
+Windows Server 2012R2  
+Windows Hyper-V Server 2012R2  
+Windows Server 2012R2 Essentials  
+Windows Server 2012R2 HPC  
+Windows Server 2012R2 Storage and Foundation  
 
-Windows10:
-Widnows 10 Pro(N)
-Widnows 10 Core(N)
-Widnows 10 Enterprise(N/NEval)
-Widnows 10 EnterpriseG(N)
-Widnows 10 Education(N)
-Widnows 10 ProfessionalEducation(N)
-Widnows 10 LTSB 2016(N)
-Widnows 10 LTSC 2019(N)
-Widnows 10 CoreSingleLanguage
-Widnows 10 CoreCountrySpecific
-Widnows 10 ProfessionalSingleLanguage
-Widnows 10 Pro for Workstation(N)
-Widnows 10 PPIPro
-Widnows 10 Cloud(N)
-Widnows 10 Server Remote Desktop
-Widnows Server 2016(All)
-Widnows Server 2019(All)
+#Windows10:  
+Widnows 10 Pro(N)  
+Widnows 10 Core(N)  
+Widnows 10 Enterprise(N/NEval)  
+Widnows 10 EnterpriseG(N)  
+Widnows 10 Education(N)  
+Widnows 10 ProfessionalEducation(N)  
+Widnows 10 LTSB 2016(N)  
+Widnows 10 LTSC 2019(N)  
+Widnows 10 CoreSingleLanguage  
+Widnows 10 CoreCountrySpecific  
+Widnows 10 ProfessionalSingleLanguage  
+Widnows 10 Pro for Workstation(N)  
+Widnows 10 PPIPro  
+Widnows 10 Cloud(N)  
+Widnows 10 Server Remote Desktop  
+Widnows Server 2016(All)  
+Widnows Server 2019(All)  
