@@ -1,3 +1,5 @@
+![image](https://github.com/laomms/MSLienseInstall/blob/master/LicenseInstall.gif)   
+
 Support:
 
 #Windows6.0:  
