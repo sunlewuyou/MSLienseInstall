@@ -1,8 +1,8 @@
 Support:
 
-Windows6.0:
-Windows Vista
-Windows Server 2008
+#Windows6.0:
+#Windows Vista
+#Windows Server 2008
 Windows Server 2008 Foundation
 Windows Server 2008 HPC
 Windows Small Business Server 2008
