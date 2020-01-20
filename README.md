@@ -1,47 +1,47 @@
 Support:
 
-#Windows6.0:
-#Windows Vista
-#Windows Server 2008
-Windows Server 2008 Foundation
-Windows Server 2008 HPC
-Windows Small Business Server 2008
-Windows Essential Business Server 2008
-Windows Storage Server 2008
+#Windows6.0:  
+Windows Vista  
+Windows Server 2008  
+Windows Server 2008 Foundation  
+Windows Server 2008 HPC  
+Windows Small Business Server 2008  
+Windows Essential Business Server 2008  
+Windows Storage Server 2008  
 
-Windows6.1:
-Windows 7 Enterprise(N)
-Windows 7 Home Basic(N)
-Windows 7 Home Premium(N)
-Windows 7 Professional(N)
-Windows 7 Starter(N)
-Windows 7 Ultimate(N)
-Windows Home Server 2011
-Windows Hyper-V Server 2008R2
-Windows Multipoint Server 2010
-Windows Multipoint Server 2011
-Windows Server 2008R2
-Windows Server 2008R2 Foundation
-Windows Server 2008R2 HPC
-Windows Storage Server 2008R2
-Windows Thin PC
+#Windows6.1:  
+Windows 7 Enterprise(N)  
+Windows 7 Home Basic(N)  
+Windows 7 Home Premium(N)  
+Windows 7 Professional(N)  
+Windows 7 Starter(N)  
+Windows 7 Ultimate(N)  
+Windows Home Server 2011  
+Windows Hyper-V Server 2008R2  
+Windows Multipoint Server 2010  
+Windows Multipoint Server 2011  
+Windows Server 2008R2  
+Windows Server 2008R2 Foundation  
+Windows Server 2008R2 HPC  
+Windows Storage Server 2008R2  
+Windows Thin PC  
 
-Windows6.2:
-Windows 8 Enterprise(N)
-Windows 8 Professional(N)
-Windows 8 Core(N)
-Windows 8 CoreCountrySpecific
-Windows 8 CoreSingleLanguage
-Windows Embedded 8 Industry Pro
-Windows Embedded Compact 2013
-Windows Hyper-V Server 2012
-Windows Multipoint Server 2012
-Windows Server 2012
-Windows Server 2012 Essentials
-Windows Server 2012 HPC
-Windows Server 2012 Storage Server and Foundation
+#Windows6.2:  
+Windows 8 Enterprise(N)  
+Windows 8 Professional(N)  
+Windows 8 Core(N)  
+Windows 8 CoreCountrySpecific  
+Windows 8 CoreSingleLanguage  
+Windows Embedded 8 Industry Pro  
+Windows Embedded Compact 2013  
+Windows Hyper-V Server 2012  
+Windows Multipoint Server 2012  
+Windows Server 2012  
+Windows Server 2012 Essentials  
+Windows Server 2012 HPC  
+Windows Server 2012 Storage Server and Foundation  
 
-Windows6.3:
+#Windows6.3:  
 Windows 8.1 Enterprise (N)
 Windows 8.1 Core(N)
 Windows 8.1 Professional(N)
