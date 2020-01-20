@@ -77,3 +77,6 @@ Widnows 10 Cloud(N)
 Widnows 10 Server Remote Desktop  
 Widnows Server 2016(All)  
 Widnows Server 2019(All)  
+
+#Office
+Office2010-2019
