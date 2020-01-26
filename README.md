@@ -1,5 +1,6 @@
 *支持安装、卸载证书  
 *支持批量导入批量导出证书。  
+*支持Windows10系统版本转换，支持Office2010-2019专业增强版零售批量互转。  
 
 ![image](https://github.com/laomms/MSLienseInstall/blob/master/LicenseInstall.gif)   
 
