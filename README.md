@@ -1,3 +1,6 @@
+*支持安装、卸载证书
+*支持批量导入批量导出证书。
+
 ![image](https://github.com/laomms/MSLienseInstall/blob/master/LicenseInstall.gif)   
 
 Support:
