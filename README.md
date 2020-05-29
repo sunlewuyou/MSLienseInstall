@@ -1,3 +1,5 @@
+#证书安装器  Licenses Installer CN/EN Version
+
 *支持安装、卸载证书  
 *支持批量导入、批量导出、批量卸载证书。  
 *支持Windows10系统版本转换，支持Office2010-2019专业增强版零售批量互转。  
