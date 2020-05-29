@@ -1,4 +1,4 @@
-#证书安装器  Licenses Installer CN/EN Version
+# 证书安装器  Licenses Installer CN/EN Version
 
 *支持安装、卸载证书  
 *支持批量导入、批量导出、批量卸载证书。  
